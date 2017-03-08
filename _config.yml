@@ -1,8 +1,13 @@
-title: This is the site title
-
+title: Damian.co
 styles:
   - /assets/uswds/css/uswds.min.css
 
 scripts:
   - src: /assets/uswds/js/uswds.min.js
     async: true
+
+# Build settings
+
+markdown: kramdown
+
+theme: jekyll-uswds
